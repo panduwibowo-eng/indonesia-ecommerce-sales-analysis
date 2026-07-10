@@ -1,0 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+
+# Mac
+.DS_Store
