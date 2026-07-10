@@ -185,7 +185,7 @@ The data model follows a **Star Schema** architecture — industry standard for 
                       │ ... (23 col) │
                       └─────────────┘
 ```
-*(/images/data-model.png)*
+*![Star Schema](/images/data-model.png)*
 **Relationship Rules:** One-to-Many (1:*) · Filter: Single (Dim → Fact) · All Active
 
 ---
